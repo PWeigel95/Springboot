@@ -1,4 +1,4 @@
-package com.example.datacollectiondispatcher.queue;
+package com.example.springboot.queue;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
 import org.apache.activemq.ActiveMQPrefetchPolicy;

@@ -1,13 +1,13 @@
-package com.example.datacollectiondispatcher;
+package com.example.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DataCollectionDispatcherApplication {
+public class InvoiceGeneratorApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DataCollectionDispatcherApplication.class, args);
+        SpringApplication.run(InvoiceGeneratorApplication.class, args);
     }
 
 }

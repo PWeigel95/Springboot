@@ -1,4 +1,4 @@
-package com.example.datacollectiondispatcher.dto;
+package com.example.springboot.dto;
 
 public class Invoice {
 
